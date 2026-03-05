@@ -1,0 +1,132 @@
+[
+  {
+    "module_code": "sp5_7",
+    "module_label": "SP5.7 - Channel Management",
+    "module_title": "Channel Management",
+    "module_slug": "channel_management",
+    "app_code": "sp5",
+    "app_label": "SP5 - Commerce & Distribution",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp5/sp5.1.md"
+  },
+  {
+    "module_code": "sp5_3",
+    "module_label": "SP5.3 - CRM (Customer Relationship Management)",
+    "module_title": "CRM (Customer Relationship Management)",
+    "module_slug": "crm_customer_relationship_management",
+    "app_code": "sp5",
+    "app_label": "SP5 - Commerce & Distribution",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp5/sp5.1.md"
+  },
+  {
+    "module_code": "sp5_10",
+    "module_label": "SP5.10 - Customer Loyalty",
+    "module_title": "Customer Loyalty",
+    "module_slug": "customer_loyalty",
+    "app_code": "sp5",
+    "app_label": "SP5 - Commerce & Distribution",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp5/sp5.1.md"
+  },
+  {
+    "module_code": "sp5_8",
+    "module_label": "SP5.8 - Demand Forecasting",
+    "module_title": "Demand Forecasting",
+    "module_slug": "demand_forecasting",
+    "app_code": "sp5",
+    "app_label": "SP5 - Commerce & Distribution",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp5/sp5.1.md"
+  },
+  {
+    "module_code": "sp5_5",
+    "module_label": "SP5.5 - Discount & Promotions",
+    "module_title": "Discount & Promotions",
+    "module_slug": "discount_and_promotions",
+    "app_code": "sp5",
+    "app_label": "SP5 - Commerce & Distribution",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp5/sp5.1.md"
+  },
+  {
+    "module_code": "sp5_2",
+    "module_label": "SP5.2 - E-Commerce Integration",
+    "module_title": "E-Commerce Integration",
+    "module_slug": "e_commerce_integration",
+    "app_code": "sp5",
+    "app_label": "SP5 - Commerce & Distribution",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp5/sp5.1.md"
+  },
+  {
+    "module_code": "sp5_11",
+    "module_label": "SP5.11 - Marketplace Integration",
+    "module_title": "Marketplace Integration",
+    "module_slug": "marketplace_integration",
+    "app_code": "sp5",
+    "app_label": "SP5 - Commerce & Distribution",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp5/sp5.1.md"
+  },
+  {
+    "module_code": "sp5_9",
+    "module_label": "SP5.9 - Merchandising",
+    "module_title": "Merchandising",
+    "module_slug": "merchandising",
+    "app_code": "sp5",
+    "app_label": "SP5 - Commerce & Distribution",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp5/sp5.1.md"
+  },
+  {
+    "module_code": "sp5_6",
+    "module_label": "SP5.6 - Order Management",
+    "module_title": "Order Management",
+    "module_slug": "order_management",
+    "app_code": "sp5",
+    "app_label": "SP5 - Commerce & Distribution",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp5/sp5.1.md"
+  },
+  {
+    "module_code": "sp5_1",
+    "module_label": "SP5.1 - POS Systems",
+    "module_title": "POS Systems",
+    "module_slug": "pos_systems",
+    "app_code": "sp5",
+    "app_label": "SP5 - Commerce & Distribution",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp5/sp5.1.md"
+  },
+  {
+    "module_code": "sp5_4",
+    "module_label": "SP5.4 - Pricing Engine",
+    "module_title": "Pricing Engine",
+    "module_slug": "pricing_engine",
+    "app_code": "sp5",
+    "app_label": "SP5 - Commerce & Distribution",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp5/sp5.1.md"
+  },
+  {
+    "module_code": "sp5_12",
+    "module_label": "SP5.12 - Returns Handling",
+    "module_title": "Returns Handling",
+    "module_slug": "returns_handling",
+    "app_code": "sp5",
+    "app_label": "SP5 - Commerce & Distribution",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp5/sp5.1.md"
+  },
+  {
+    "module_code": "sp5_13",
+    "module_label": "SP5.13 - Trade Compliance",
+    "module_title": "Trade Compliance",
+    "module_slug": "trade_compliance",
+    "app_code": "sp5",
+    "app_label": "SP5 - Commerce & Distribution",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp5/sp5.1.md"
+  }
+]
